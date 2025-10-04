@@ -1,0 +1,42 @@
+{
+    "quiet_study": { 
+      "types": ["library", "cafe"], 
+      "keywords": ["study", "quiet", "work", "focus"]
+    },
+    "bars": { 
+      "types": ["bar", "night_club"], 
+      "keywords": ["drink", "party", "music", "night"]
+    },
+    "sports": { 
+      "types": ["gym", "park", "stadium"], 
+      "keywords": ["sports", "basketball", "soccer", "tennis", "workout", "recreation", "game"]
+    },
+    "outdoor_chill": { 
+      "types": ["park", "cafe"], 
+      "keywords": ["relax", "hangout", "outdoors", "friends"]
+    },
+    "late_night_food": { 
+      "types": ["restaurant", "meal_takeaway"], 
+      "keywords": ["food", "late", "night", "snack"]
+    },
+    "coffee_break": { 
+      "types": ["cafe", "bakery"], 
+      "keywords": ["coffee", "espresso", "latte", "breakfast"]
+    },
+    "shopping": { 
+      "types": ["shopping_mall", "clothing_store"], 
+      "keywords": ["shop", "mall", "store", "fashion"]
+    },
+    "fitness": { 
+      "types": ["gym", "health"], 
+      "keywords": ["workout", "fitness", "exercise", "training"]
+    },
+    "cultural_spot": { 
+      "types": ["museum", "art_gallery"], 
+      "keywords": ["art", "museum", "culture", "exhibit"]
+    },
+    "date_spot": { 
+      "types": ["restaurant", "movie_theater", "park"], 
+      "keywords": ["date", "romantic", "dinner", "movie"]
+    }
+  }
